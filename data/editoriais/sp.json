@@ -1,1 +1,21 @@
+{
+  "estado": "Rio de Janeiro",
+  "mes": "Maio 2026",
+  "titulo": "Reconstruindo a participação local",
+  "autor": "Coordenação RJ",
 
+  "imagem_capa": "/images/rj/capa.jpg",
+  "imagem_lideranca": "/images/rj/lider.jpg",
+
+  "conteudo": "Este é um editorial inicial para validar a estrutura da CÍVICA no estado do Rio de Janeiro.",
+
+  "acoes": [
+    "Criação de núcleos locais",
+    "Formação de lideranças",
+    "Organização comunitária"
+  ],
+
+  "galeria": [
+    "/images/rj/acao1.jpg"
+  ]
+}

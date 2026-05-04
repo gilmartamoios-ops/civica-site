@@ -12,7 +12,7 @@ export default function Home() {
 
     <section className="conjuntura">
 
-  <h2>Conjuntura Nacional — Maio 2026</h2>
+  <h2>Conjuntura Nacional — Maio 2026 • v2</h2>
 
   <p>
     O debate público segue distante da realidade das comunidades. 

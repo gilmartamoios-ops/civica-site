@@ -195,3 +195,13 @@ body {
 .galeria img:hover {
   transform: scale(1.05);
 }
+.topo-logo {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.topo-logo img {
+  width: 70px;
+  opacity: 0.9;
+}

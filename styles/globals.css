@@ -347,3 +347,10 @@ body {
   color: #93c5fd;
   max-width: 600px;
 }
+.frase-impacto {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #60a5fa;
+  max-width: 600px;
+}

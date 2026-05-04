@@ -10,6 +10,10 @@ export default function Home() {
         <img src="/images/logo.png" className="logo" />
       </header>
 
+    <p className="frase-impacto">
+  CÍVICA — quando vozes se organizam, elas influenciam.
+</p>
+    
     <section className="conjuntura">
 
   <h2>Conjuntura Nacional — Maio 2026 • v2</h2>

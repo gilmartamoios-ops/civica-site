@@ -10,6 +10,23 @@ export default function Home() {
         <img src="/images/logo.png" className="logo" />
       </header>
 
+    <section className="conjuntura">
+
+  <h2>Conjuntura Nacional — Maio 2026</h2>
+
+  <p>
+    O debate público segue distante da realidade das comunidades. 
+    Temas estruturais são substituídos por disputas narrativas e polarização superficial.
+  </p>
+
+  <div className="direcionamento">
+    <strong>Direcionamento:</strong>
+    <p>
+      Fortalecer presença local, organizar lideranças e produzir ações concretas nos territórios.
+    </p>
+  </div>
+
+</section>
       <p className="impacto">
   “Todo poder emana do povo.”
   <span className="fonte">

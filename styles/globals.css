@@ -168,3 +168,10 @@ body {
   font-size: 16px;
   letter-spacing: 1px;
 }
+.impacto {
+  text-align: center;
+  margin-top: 10px;
+  color: #cfcfcf;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+}

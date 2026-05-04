@@ -340,3 +340,10 @@ body {
   color: #9ca3af;
   max-width: 600px;
 }
+.frase-impacto {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #93c5fd;
+  max-width: 600px;
+}

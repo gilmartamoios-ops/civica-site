@@ -72,7 +72,23 @@ export default function Estado() {
           <img key={i} src={img} />
         ))}
       </div>
+{/* PARTICIPAÇÃO */}
+<div className="participar">
 
+  <h3>Como participar</h3>
+
+  <p>
+    Este movimento se constrói a partir da ação local. 
+    Se você se identifica com as diretrizes apresentadas, o próximo passo é se conectar com a organização no seu território.
+  </p>
+
+  <ul>
+    <li>Participar de reuniões locais</li>
+    <li>Contribuir com organização comunitária</li>
+    <li>Ajudar na mobilização de novas lideranças</li>
+  </ul>
+
+</div>
     </div>
   );
 }

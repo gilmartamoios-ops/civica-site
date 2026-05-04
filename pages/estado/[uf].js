@@ -19,7 +19,10 @@ export default function Estado() {
 
   return (
     <div className="container">
-
+<div className="topo-logo">
+  <img src="/images/logo-mini.png" />
+</div>
+  
       {/* BOTÃO VOLTAR */}
       <button className="voltar" onClick={() => router.push("/")}>
         ← Voltar

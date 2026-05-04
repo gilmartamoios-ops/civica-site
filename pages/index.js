@@ -28,7 +28,9 @@ export default function Home() {
 
  
 </header>
-
+<p className="impacto">
+  Lideranças não nascem prontas. São construídas.
+</p>
       <div className="estados">
         <button onClick={() => setEstado("ba")}>BA</button>
         <button onClick={() => setEstado("ce")}>CE</button>

@@ -11,8 +11,11 @@ export default function Home() {
       </header>
 
       <p className="impacto">
-        Lideranças não nascem prontas. São construídas.
-      </p>
+  “Todo poder emana do povo.”
+  <span className="fonte">
+    Constituição Federal de 1988 (Art. 1º, parágrafo único)
+  </span>
+</p>
 
       <div className="estados">
         <button onClick={() => router.push("/estado/ba")}>BA</button>

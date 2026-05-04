@@ -42,6 +42,10 @@ export default function Estado() {
         </div>
       </div>
 
+        <p className="frase-impacto">
+  CÍVICA — quando vozes se organizam, elas influenciam.
+</p>
+        
 <div className="territorio">
   <p>
     Atuação em desenvolvimento no estado do {data.estado}, com foco na organização local e fortalecimento de lideranças comunitárias.

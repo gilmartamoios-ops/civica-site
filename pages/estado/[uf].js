@@ -42,6 +42,12 @@ export default function Estado() {
         </div>
       </div>
 
+<div className="territorio">
+  <p>
+    Atuação em desenvolvimento no estado do {data.estado}, com foco na organização local e fortalecimento de lideranças comunitárias.
+  </p>
+</div>
+
       {/* LIDERANÇA */}
       <div className="lideranca">
         <img src={data.imagem_lideranca} />

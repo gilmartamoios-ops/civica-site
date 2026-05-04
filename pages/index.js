@@ -27,12 +27,7 @@ export default function Home() {
   </div>
 
 </section>
-      <p className="impacto">
-  “Todo poder emana do povo.”
-  <span className="fonte">
-    Constituição Federal de 1988 (Art. 1º, parágrafo único)
-  </span>
-</p>
+
 
       <div className="estados">
         <button onClick={() => router.push("/estado/ba")}>BA</button>

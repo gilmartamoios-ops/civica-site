@@ -26,10 +26,7 @@ export default function Home() {
 
   <img src="/images/logo.png" className="logo" />
 
-  <p className="subtitulo">
-    Comunidade integrada • vigilante • cidadã • ativa
-  </p>
-
+ 
 </header>
 
       <div className="estados">

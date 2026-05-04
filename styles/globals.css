@@ -156,3 +156,13 @@ body {
 .galeria img:hover {
   transform: scale(1.05);
 }
+.logo {
+  width: 220px;
+  margin-bottom: 20px;
+}
+
+.subtitulo {
+  color: #aaa;
+  font-size: 16px;
+  letter-spacing: 1px;
+}

@@ -20,24 +20,55 @@ export default function Estado() {
   return (
     <div className="container">
 
-      <button onClick={() => router.push("/")}>
+      {/* BOTÃO VOLTAR */}
+      <button className="voltar" onClick={() => router.push("/")}>
         ← Voltar
       </button>
 
+      {/* CAPA */}
       <div 
         className="capa"
         style={{ backgroundImage: `url(${data.imagem_capa})` }}
       >
-        <h2>{data.titulo}</h2>
-        <span>{data.mes}</span>
+        <div className="overlay" />
+
+        <div className="capa-content">
+          <span className="estado-tag">{data.estado}</span>
+          <h1>{data.titulo}</h1>
+          <p className="mes">{data.mes}</p>
+        </div>
       </div>
 
-      <div className="autor">
+      {/* LIDERANÇA */}
+      <div className="lideranca">
         <img src={data.imagem_lideranca} />
-        <strong>{data.autor}</strong>
+        <div>
+          <strong>{data.autor}</strong>
+          <span>Coordenação Estadual</span>
+        </div>
       </div>
 
-      <p className="texto">{data.conteudo}</p>
+      {/* TEXTO */}
+      <div className="texto">
+        {data.conteudo}
+      </div>
+
+      {/* DIRETRIZES / AÇÕES */}
+      <div className="acoes">
+        <h3>Diretrizes de atuação</h3>
+        <div className="acoes-grid">
+          {data.acoes?.map((acao, i) => (
+            <div key={i} className="card">{acao}</div>
+          ))}
+        </div>
+      </div>
+
+      {/* GALERIA */}
+      <div className="galeria">
+        {data.galeria?.map((img, i) => (
+          <img key={i} src={img} />
+        ))}
+      </div>
 
     </div>
   );

@@ -334,3 +334,9 @@ body {
   margin-bottom: 8px;
   border: 1px solid #1f2937;
 }
+.territorio {
+  margin-top: 15px;
+  font-size: 14px;
+  color: #9ca3af;
+  max-width: 600px;
+}

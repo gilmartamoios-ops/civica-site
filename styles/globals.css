@@ -202,6 +202,9 @@ body {
 }
 
 .topo-logo img {
-  width: 70px;
-  opacity: 0.9;
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
 }

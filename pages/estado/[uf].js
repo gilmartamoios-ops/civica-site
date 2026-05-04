@@ -53,7 +53,7 @@ export default function Estado() {
         <img src={data.imagem_lideranca} />
         <div>
           <strong>{data.autor}</strong>
-          <span>Coordenação Estadual</span>
+<span> • Coordenação Estadual</span>
         </div>
       </div>
 

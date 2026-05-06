@@ -19,14 +19,24 @@ export default function Home() {
   <h2>Conjuntura Nacional — Maio 2026 • v2</h2>
 
   <p>
-    O debate público segue distante da realidade das comunidades. 
-    Temas estruturais são substituídos por disputas narrativas e polarização superficial.
+   A principal crise brasileira não está apenas nas instituições, mas no enfraquecimento progressivo da sociedade civil organizada.
+
+Ao longo dos anos, a participação comunitária foi substituída por opinião, polarização e consumo passivo de informação. A consequência direta disso é o distanciamento entre representantes e a realidade concreta dos territórios.
+
+Sem organização local, não há formação contínua de lideranças, não há pressão social qualificada e não há renovação real da representação política.
+
+A deterioração da qualidade do debate público é apenas o reflexo visível de um problema mais profundo: a desmobilização da participação cidadã organizada.
   </p>
 
   <div className="direcionamento">
     <strong>Direcionamento:</strong>
     <p>
-      Fortalecer presença local, organizar lideranças e produzir ações concretas nos territórios.
+      Reconstruir a participação a partir da base:
+
+fortalecendo organização local;
+formando novas lideranças;
+criando núcleos comunitários permanentes;
+transformando presença social em influência real.
     </p>
   </div>
 

@@ -88,8 +88,15 @@ export default function Estado() {
   <h3>Como participar</h3>
 
   <p>
-    Este movimento se constrói a partir da ação local. 
-    Se você se identifica com as diretrizes apresentadas, o próximo passo é se conectar com a organização no seu território.
+    Este movimento está em construção e começa pela ação local.
+  </p>
+
+  <p>
+    Se você se identifica com essa proposta, o próximo passo é acompanhar a organização da comunidade e participar da construção dos núcleos no seu território.
+  </p>
+
+  <p>
+    A participação acontece por articulação local, contato direto e integração na comunidade principal do movimento.
   </p>
 
   <ul>

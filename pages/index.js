@@ -30,14 +30,13 @@ A deterioração da qualidade do debate público é apenas o reflexo visível de
 
   <div className="direcionamento">
     <strong>Direcionamento:</strong>
-    <p>
-      Reconstruir a participação a partir da base:
-
-fortalecendo organização local;
-formando novas lideranças;
-criando núcleos comunitários permanentes;
-transformando presença social em influência real.
-    </p>
+     <ul>
+    <li>Fortalecer organização local</li>
+    <li>Formar novas lideranças</li>
+    <li>Criar núcleos comunitários permanentes</li>
+    <li>Transformar presença social em influência real</li>
+  </ul>
+    
   </div>
 
 </section>

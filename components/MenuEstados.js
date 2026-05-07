@@ -41,7 +41,7 @@ export default function MenuEstados() {
   className="botao-rede"
   onClick={() => router.push("/rede")}
 >
-  PARTICIPAR DA REDE
+  PARTICIPE DA CIVICA
 </button>
           
     </div>

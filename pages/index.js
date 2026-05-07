@@ -1,11 +1,11 @@
 import { useRouter } from "next/router";
-
+import MenuEstados from "../components/MenuEstados";
 export default function Home() {
   const router = useRouter();
 
   return (
     <div className="container">
-
+<MenuEstados />
       <header className="hero">
         <img src="/images/logo.png" className="logo" />
       </header>

@@ -472,20 +472,33 @@ body {
 
   filter: drop-shadow(0 0 10px rgba(0,0,0,0.4));
 }
-.botao-rede {
-  color: #93c5fd !important;
+.menu-fixo .botao-rede {
+  background: linear-gradient(
+    to bottom,
+    #2563eb,
+    #172554
+  );
 
-  border: 1px solid rgba(147,197,253,0.35) !important;
+  color: #dbeafe;
+
+  border: 1px solid rgba(147,197,253,0.45);
 
   box-shadow:
-    0 0 12px rgba(96,165,250,0.18),
+    0 0 16px rgba(96,165,250,0.28),
     inset 0 1px 1px rgba(255,255,255,0.08);
 }
 
-.botao-rede:hover {
-  color: white !important;
+.menu-fixo .botao-rede:hover {
+  background: linear-gradient(
+    to bottom,
+    #3b82f6,
+    #1e3a8a
+  );
+
+  color: white;
 
   box-shadow:
-    0 0 18px rgba(96,165,250,0.35),
+    0 0 22px rgba(96,165,250,0.4),
     inset 0 1px 1px rgba(255,255,255,0.12);
+
 }

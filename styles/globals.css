@@ -456,3 +456,19 @@ body {
     0 8px 18px rgba(37,99,235,0.35),
     inset 0 1px 1px rgba(255,255,255,0.12);
 }
+.logo-capa {
+  position: absolute;
+  top: 18px;
+  left: 18px;
+
+  width: 55px;
+  height: 55px;
+
+  object-fit: contain;
+
+  z-index: 2;
+
+  opacity: 0.92;
+
+  filter: drop-shadow(0 0 10px rgba(0,0,0,0.4));
+}

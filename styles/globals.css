@@ -397,3 +397,62 @@ body {
   line-height: 1.8;
   color: #d1d5db;
 }
+.menu-fixo {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+
+  padding: 15px;
+  margin-bottom: 30px;
+
+  background: rgba(10,10,10,0.9);
+  backdrop-filter: blur(10px);
+
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.menu-fixo button {
+  background: linear-gradient(
+    to bottom,
+    #1e3a8a,
+    #0f172a
+  );
+
+  color: #f3f4f6;
+
+  border: 1px solid rgba(255,255,255,0.08);
+
+  border-radius: 10px;
+
+  padding: 10px 16px;
+
+  cursor: pointer;
+
+  font-weight: 600;
+  letter-spacing: 0.5px;
+
+  box-shadow:
+    0 4px 12px rgba(0,0,0,0.35),
+    inset 0 1px 1px rgba(255,255,255,0.08);
+
+  transition: all 0.25s ease;
+}
+
+.menu-fixo button:hover {
+  transform: translateY(-2px);
+
+  background: linear-gradient(
+    to bottom,
+    #2563eb,
+    #172554
+  );
+
+  box-shadow:
+    0 8px 18px rgba(37,99,235,0.35),
+    inset 0 1px 1px rgba(255,255,255,0.12);
+}

@@ -13,6 +13,21 @@ export default function Home() {
     <p className="frase-impacto">
   CÍVICA — quando vozes se organizam, elas influenciam.
 </p>
+
+<div className="manifesto-home">
+
+  <p>
+    Conheça os princípios, objetivos e fundamentos da CÍVICA.
+  </p>
+
+  <button
+    className="manifesto-btn"
+    onClick={() => router.push("/manifesto")}
+  >
+    Ler Manifesto
+  </button>
+
+</div>
     
     <section className="conjuntura">
 

@@ -21,9 +21,6 @@ export default function Estado() {
 
   return (
     <div className="container">
-<div className="topo-logo">
-  <img src="/images/logo-mini.png" />
-</div>
   
       {/* BOTÃO VOLTAR */}
       <button className="voltar" onClick={() => router.push("/")}>
@@ -36,7 +33,11 @@ export default function Estado() {
         style={{ backgroundImage: `url(${data.imagem_capa})` }}
       >
         <div className="overlay" />
-
+<img 
+  src="/images/logo-mini.png" 
+  className="logo-capa" 
+/>
+        
         <div className="capa-content">
           <span className="estado-tag">{data.estado}</span>
           <h1>{data.titulo}</h1>

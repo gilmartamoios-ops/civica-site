@@ -488,6 +488,22 @@ body {
     inset 0 1px 1px rgba(255,255,255,0.08);
 }
 
+.menu-fixo .botao-rede {
+  background: linear-gradient(
+    to bottom,
+    #2563eb,
+    #172554
+  );
+
+  color: #dbeafe;
+
+  border: 1px solid rgba(147,197,253,0.45);
+
+  box-shadow:
+    0 0 16px rgba(96,165,250,0.28),
+    inset 0 1px 1px rgba(255,255,255,0.08);
+}
+
 .menu-fixo .botao-rede:hover {
   background: linear-gradient(
     to bottom,
@@ -500,5 +516,5 @@ body {
   box-shadow:
     0 0 22px rgba(96,165,250,0.4),
     inset 0 1px 1px rgba(255,255,255,0.12);
-
+}
 }

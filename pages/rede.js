@@ -8,68 +8,86 @@ export default function Rede() {
 
       <div className="manifesto">
 
-        <h1>Rede CÍVICA</h1>
+        <h1>PARTICIPE DA CÍVICA</h1>
 
         <p className="frase-impacto">
-          Organização local. Conexão nacional.
+          Organização local. Informação confiável. Participação contínua.
         </p>
 
         <div className="manifesto-texto">
 
           <p>
-            A Rede CÍVICA é um ambiente de articulação,
-            formação e apoio para pessoas interessadas
-            em fortalecer participação cidadã organizada
-            em seus territórios.
+            A CÍVICA é uma rede de articulação cidadã voltada
+            para fortalecimento da participação local,
+            fiscalização pública organizada e formação de lideranças comunitárias.
           </p>
 
           <p>
-            A proposta da rede não é substituir lideranças locais,
-            mas conectar experiências, compartilhar conhecimento
-            e ampliar capacidade de organização comunitária.
+            Acreditamos que informação pública acessível,
+            organizada e compreensível é uma das ferramentas
+            mais poderosas de transformação social e política.
           </p>
 
-          <h2>Como funciona</h2>
+          <p>
+            Nossa proposta não é substituir lideranças locais,
+            mas conectar pessoas comprometidas com atuação responsável,
+            organização comunitária e acompanhamento permanente da vida pública.
+          </p>
+
+          <h2>O que a Rede CÍVICA oferece</h2>
 
           <div className="participar">
 
             <ul>
 
               <li>
-                Capacitação e materiais de apoio para atuação local.
+                Modelos de requerimentos, pedidos públicos e ações cidadãs.
               </li>
 
               <li>
-                Compartilhamento de experiências entre núcleos.
+                Capacitação em fiscalização pública e participação comunitária.
               </li>
 
               <li>
-                Informes, campanhas e ações coordenadas.
+                Compartilhamento de experiências entre cidades e núcleos.
               </li>
 
               <li>
-                Modelos de documentos, pedidos públicos e organização cidadã.
+                Informes, campanhas coordenadas e documentação pública.
               </li>
 
               <li>
-                Acesso a ferramentas de acompanhamento da transparência pública.
+                Ferramentas e referências de transparência legislativa e executiva.
+              </li>
+
+              <li>
+                Apoio organizacional para atuação local responsável.
               </li>
 
             </ul>
 
           </div>
 
-          <h2>Quem pode participar</h2>
+          <h2>Como funciona</h2>
 
           <p>
-            Pessoas comprometidas com participação cidadã,
-            organização comunitária e atuação responsável
-            em seus municípios e estados.
+            A Rede CÍVICA funciona através de núcleos locais conectados
+            por uma estrutura nacional de organização,
+            compartilhamento de metodologia e amplificação de ações cidadãs.
           </p>
 
           <p>
-            A entrada na Rede CÍVICA ocorre mediante
-            solicitação e análise inicial de integração.
+            Cada núcleo atua em sua própria realidade local,
+            acompanhando temas públicos,
+            organizando participação cidadã
+            e produzindo informação acessível para a população.
+          </p>
+
+          <h2>Participação</h2>
+
+          <p>
+            A integração na CÍVICA ocorre mediante solicitação inicial
+            e alinhamento com os princípios organizacionais do movimento.
           </p>
 
           <div className="participar">
@@ -77,12 +95,12 @@ export default function Rede() {
             <h3>Solicitar participação</h3>
 
             <p>
-              Em breve a Rede CÍVICA disponibilizará
-              o canal oficial de integração para novos participantes.
+              O canal oficial de integração da Rede CÍVICA
+              será disponibilizado em breve.
             </p>
 
             <button className="manifesto-btn">
-              Solicitação em breve
+              Integração em breve
             </button>
 
           </div>

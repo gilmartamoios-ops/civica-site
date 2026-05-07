@@ -21,7 +21,8 @@ export default function Estado() {
 
   return (
     <div className="container">
-  
+  <MenuEstados />
+    
       {/* BOTÃO VOLTAR */}
       <button className="voltar" onClick={() => router.push("/")}>
         ← Voltar

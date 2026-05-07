@@ -75,7 +75,8 @@ export default function Manifesto() {
               <li>
                 <strong>Neutralidade Partidária e Independência:</strong>
                 A CÍVICA não pertence a partidos políticos nem atua como
-                instrumento de projetos pessoais.
+                instrumento de projetos pessoais,mas apoia qualquer candidatura
+                de liderança sua comprometida com seu manifesto.
               </li>
 
               <li>

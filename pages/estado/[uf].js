@@ -1,5 +1,7 @@
 import { useRouter } from "next/router";
 
+import MenuEstados from "../../components/MenuEstados";
+
 import ba from "../../data/editoriais/ba.json";
 import ce from "../../data/editoriais/ce.json";
 import mg from "../../data/editoriais/mg.json";

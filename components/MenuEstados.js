@@ -37,7 +37,10 @@ export default function MenuEstados() {
       <button onClick={() => router.push("/manifesto")}>
         MANIFESTO
       </button>
-
+<button onClick={() => router.push("/rede")}>
+  PARTICIPAR DA REDE
+</button>
+          
     </div>
   );
 }

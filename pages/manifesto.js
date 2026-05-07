@@ -11,14 +11,8 @@ export default function Manifesto() {
 
       <div className="manifesto">
 
-        <button
-          className="voltar"
-          onClick={() => router.push("/")}
-        >
-          ← Voltar
-        </button>
-
-        <h1>Manifesto CÍVICA</h1>
+       
+    <h1>Manifesto CÍVICA</h1>
 
         <div className="manifesto-texto">
 

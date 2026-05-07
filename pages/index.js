@@ -14,21 +14,6 @@ export default function Home() {
   CÍVICA — quando vozes se organizam, elas influenciam.
 </p>
 
-<div className="manifesto-home">
-
-  <p>
-    Conheça os princípios, objetivos e fundamentos da CÍVICA.
-  </p>
-
-  <button
-    className="manifesto-btn"
-    onClick={() => router.push("/manifesto")}
-  >
-    Ler Manifesto
-  </button>
-
-</div>
-    
     <section className="conjuntura">
 
   <h2>Conjuntura Nacional — Maio 2026 • v2</h2>

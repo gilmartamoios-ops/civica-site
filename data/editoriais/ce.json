@@ -4,8 +4,8 @@
   "titulo": "Núcleo em estruturação",
   "autor": "Coordenação provisória",
 
-  "imagem_capa": "/images/rj/capa.jpg",
-  "imagem_lideranca": "/images/rj/lider.jpg",
+  "imagem_capa": "",
+  "imagem_lideranca": "",
 
   "conteudo": "conteudo": "O núcleo da CÍVICA neste estado encontra-se em fase inicial de organização e estruturação local.",
 
@@ -16,6 +16,6 @@
   ],
 
   "galeria": [
-    "/images/rj/acao1.jpg"
+   
   ]
 }

@@ -33,7 +33,7 @@ export default function Rede() {
             mas conectar pessoas comprometidas com atuação responsável,
             organização comunitária e acompanhamento permanente da vida pública.
           </p>
-
+              
           <h2>O que a Rede CÍVICA oferece</h2>
 
           <div className="participar">
@@ -83,6 +83,44 @@ export default function Rede() {
             e produzindo informação acessível para a população.
           </p>
 
+<h2>Atuação prática dos núcleos</h2>
+
+<div className="participar">
+
+  <ul>
+
+    <li>
+      Acompanhamento de gastos públicos municipais.
+    </li>
+
+    <li>
+      Fiscalização de obras, serviços e contratos públicos.
+    </li>
+
+    <li>
+      Produção de informação pública acessível para a população local.
+    </li>
+
+    <li>
+      Participação organizada em sessões legislativas e audiências públicas.
+    </li>
+
+    <li>
+      Organização de reuniões comunitárias e debates locais.
+    </li>
+
+    <li>
+      Compartilhamento de experiências e metodologias entre cidades.
+    </li>
+
+    <li>
+      Amplificação nacional de ações locais através da Rede CÍVICA.
+    </li>
+
+  </ul>
+
+</div>
+              
           <h2>Participação</h2>
 
           <p>

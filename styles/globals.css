@@ -364,3 +364,32 @@ body {
   color: #d1d5db;
   line-height: 1.6;
 }
+.manifesto-home {
+  margin: 30px 0;
+}
+
+.manifesto-btn {
+  margin-top: 10px;
+  padding: 12px 18px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.manifesto {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.manifesto h1 {
+  margin-bottom: 20px;
+}
+
+.manifesto-texto p {
+  margin-bottom: 20px;
+  line-height: 1.8;
+  color: #d1d5db;
+}

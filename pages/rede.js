@@ -120,7 +120,39 @@ export default function Rede() {
   </ul>
 
 </div>
-              
+         <h2>Princípios de atuação</h2>
+
+<div className="participar">
+
+  <ul>
+
+    <li>
+      Atuação baseada em informação pública verificável.
+    </li>
+
+    <li>
+      Respeito institucional e responsabilidade comunitária.
+    </li>
+
+    <li>
+      Independência partidária e autonomia local.
+    </li>
+
+    <li>
+      Fiscalização cidadã contínua e organizada.
+    </li>
+
+    <li>
+      Cooperação entre núcleos e compartilhamento de conhecimento.
+    </li>
+
+    <li>
+      Rejeição a práticas de desinformação, perseguição ou radicalização.
+    </li>
+
+  </ul>
+
+</div>     
           <h2>Participação</h2>
 
           <p>
